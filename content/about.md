@@ -10,4 +10,4 @@ Founded by [Partho P. Das](https://www.linkedin.com/in/parthopdas/), Kitam Studi
 - Managed stakeholders & projects using SCRUM.
 - Championed & conducted workshops on modern engineering practices: TDD, Emergent Design, Refactoring & per commit auto deployment.
 
-Partho has been engaged by Readify (2015-16), SSW (2017-19), Blackroc (2019).
+Partho has been engaged by Readify (2015-16), SSW (2017-19), Blackroc (2019) for various clients in Sydney & Brisbane.
