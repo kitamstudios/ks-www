@@ -33,7 +33,7 @@ jobs:
         with:
           azcliversion: 2.0.72
           inlineScript: |
-              az storage blob upload-batch --account-name parthows -d '$web' -s ./public
+              az storage blob upload-batch --account-name kswww -d '$web' -s ./public
 
       # Azure logout
       - name: logout
